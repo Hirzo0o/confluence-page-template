@@ -1,0 +1,39 @@
+<ac:layout><ac:layout-section ac:type="two_right_sidebar"><ac:layout-cell>
+<h2><span style="color: rgb(0,0,255);">Introduction</span></h2>
+<p><strong>ProgressSoft P</strong>age <strong>D</strong>efault <strong>T</strong>emplate<strong> (PS-PDT)</strong> .</p>
+<p>Create Page with layout.</p>
+<p>The swiftness, easiness, and efficiency etc...;</p>
+<p><strong>PSYS</strong> which is mainly 
+
+. instructions.</p></ac:layout-cell><ac:layout-cell>
+<p><a href="https://manuals.progressoft.com/display/AO/PS-ACH"><ac:image ac:width="150"><ri:url ri:value="http://www.progressoft.com/media/products/suites/14458dc1bd3ece1606531d5e20135c5d.png" /></ac:image></a></p>
+<p></p><ac:structured-macro ac:macro-id="e1e8ee49-c16e-46ad-ab23-31ca27d7d75f" ac:name="info" ac:schema-version="1"><ac:parameter ac:name="icon">false</ac:parameter><ac:parameter ac:name="title">System Modules :</ac:parameter><ac:rich-text-body>
+<ul>
+<li><ac:link><ri:page ri:content-title="Sample Day" /></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Dummy Billing" /><ac:plain-text-link-body><![CDATA[Billing ]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Sample text 1 .... etc" /><ac:plain-text-link-body><![CDATA[Sample-text]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Sample Text 2" /><ac:plain-text-link-body><![CDATA[Sample Management ]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Dummy Configurations" /><ac:plain-text-link-body><![CDATA[Dummy Configurations ]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Dummy Text" /></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Dummy Account" /></ac:link></li></ul></ac:rich-text-body></ac:structured-macro></ac:layout-cell></ac:layout-section><ac:layout-section ac:type="single"><ac:layout-cell>
+<p></p></ac:layout-cell></ac:layout-section></ac:layout>
+
+<ac:layout><ac:layout-section ac:type="two_right_sidebar"><ac:layout-cell>
+<h2><span style="color: rgb(0,0,255);">Introduction</span></h2>
+<p><strong>ProgressSoft P</strong>age <strong>D</strong>efault <strong>T</strong>emplate<strong> (PS-PDT)</strong> .</p>
+<p>Create Page with layout.</p>
+<p>The swiftness, easiness, and efficiency etc...;</p>
+<p><strong>PSYS</strong> which is mainly 
+
+. instructions.</p></ac:layout-cell><ac:layout-cell>
+<p><a href="https://manuals.progressoft.com/display/AO/PS-ACH"><ac:image ac:width="150"><ri:url ri:value="http://www.progressoft.com/media/products/suites/14458dc1bd3ece1606531d5e20135c5d.png" /></ac:image></a></p>
+<p></p><ac:structured-macro ac:macro-id="e1e8ee49-c16e-46ad-ab23-31ca27d7d75f" ac:name="info" ac:schema-version="1"><ac:parameter ac:name="icon">false</ac:parameter><ac:parameter ac:name="title">System Modules :</ac:parameter><ac:rich-text-body>
+<ul>
+<li><ac:link><ri:page ri:content-title="Sample Day" /></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Dummy Billing" /><ac:plain-text-link-body><![CDATA[Billing ]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Sample text 1 .... etc" /><ac:plain-text-link-body><![CDATA[Sample-text]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Sample Text 2" /><ac:plain-text-link-body><![CDATA[Sample Management ]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Dummy Configurations" /><ac:plain-text-link-body><![CDATA[Dummy Configurations ]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Dummy Text" /></ac:link></li>
+<li><ac:link><ri:page ri:content-title="Dummy Account" /></ac:link></li></ul></ac:rich-text-body></ac:structured-macro></ac:layout-cell></ac:layout-section><ac:layout-section ac:type="single"><ac:layout-cell>
+<p></p></ac:layout-cell></ac:layout-section></ac:layout>
