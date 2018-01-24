@@ -1,39 +1,41 @@
 <ac:layout><ac:layout-section ac:type="two_right_sidebar"><ac:layout-cell>
-<h2><span style="color: rgb(0,0,255);">Introduction</span></h2>
-<p><strong>ProgressSoft P</strong>age <strong>D</strong>efault <strong>T</strong>emplate<strong> (PS-PDT)</strong> .</p>
-<p>Create Page with layout.</p>
-<p>The swiftness, easiness, and efficiency etc...;</p>
-<p><strong>PSYS</strong> which is mainly 
-
-. instructions.</p></ac:layout-cell><ac:layout-cell>
-<p><a href="https://manuals.progressoft.com/display/AO/PS-ACH"><ac:image ac:width="150"><ri:url ri:value="http://www.progressoft.com/media/products/suites/14458dc1bd3ece1606531d5e20135c5d.png" /></ac:image></a></p>
-<p></p><ac:structured-macro ac:macro-id="e1e8ee49-c16e-46ad-ab23-31ca27d7d75f" ac:name="info" ac:schema-version="1"><ac:parameter ac:name="icon">false</ac:parameter><ac:parameter ac:name="title">System Modules :</ac:parameter><ac:rich-text-body>
-<ul>
-<li><ac:link><ri:page ri:content-title="Sample Day" /></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Dummy Billing" /><ac:plain-text-link-body><![CDATA[Billing ]]></ac:plain-text-link-body></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Sample text 1 .... etc" /><ac:plain-text-link-body><![CDATA[Sample-text]]></ac:plain-text-link-body></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Sample Text 2" /><ac:plain-text-link-body><![CDATA[Sample Management ]]></ac:plain-text-link-body></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Dummy Configurations" /><ac:plain-text-link-body><![CDATA[Dummy Configurations ]]></ac:plain-text-link-body></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Dummy Text" /></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Dummy Account" /></ac:link></li></ul></ac:rich-text-body></ac:structured-macro></ac:layout-cell></ac:layout-section><ac:layout-section ac:type="single"><ac:layout-cell>
-<p></p></ac:layout-cell></ac:layout-section></ac:layout>
-
-<ac:layout><ac:layout-section ac:type="two_right_sidebar"><ac:layout-cell>
-<h2><span style="color: rgb(0,0,255);">Introduction</span></h2>
-<p><strong>ProgressSoft P</strong>age <strong>D</strong>efault <strong>T</strong>emplate<strong> (PS-PDT)</strong> .</p>
-<p>Create Page with layout.</p>
-<p>The swiftness, easiness, and efficiency etc...;</p>
-<p><strong>PSYS</strong> which is mainly 
-
-. instructions.</p></ac:layout-cell><ac:layout-cell>
-<p><a href="https://manuals.progressoft.com/display/AO/PS-ACH"><ac:image ac:width="150"><ri:url ri:value="http://www.progressoft.com/media/products/suites/14458dc1bd3ece1606531d5e20135c5d.png" /></ac:image></a></p>
-<p></p><ac:structured-macro ac:macro-id="e1e8ee49-c16e-46ad-ab23-31ca27d7d75f" ac:name="info" ac:schema-version="1"><ac:parameter ac:name="icon">false</ac:parameter><ac:parameter ac:name="title">System Modules :</ac:parameter><ac:rich-text-body>
-<ul>
-<li><ac:link><ri:page ri:content-title="Sample Day" /></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Dummy Billing" /><ac:plain-text-link-body><![CDATA[Billing ]]></ac:plain-text-link-body></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Sample text 1 .... etc" /><ac:plain-text-link-body><![CDATA[Sample-text]]></ac:plain-text-link-body></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Sample Text 2" /><ac:plain-text-link-body><![CDATA[Sample Management ]]></ac:plain-text-link-body></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Dummy Configurations" /><ac:plain-text-link-body><![CDATA[Dummy Configurations ]]></ac:plain-text-link-body></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Dummy Text" /></ac:link></li>
-<li><ac:link><ri:page ri:content-title="Dummy Account" /></ac:link></li></ul></ac:rich-text-body></ac:structured-macro></ac:layout-cell></ac:layout-section><ac:layout-section ac:type="single"><ac:layout-cell>
-<p></p></ac:layout-cell></ac:layout-section></ac:layout>
+<h1><span style="color: rgb(0,0,255);">Lorem ipsum 1</span></h1>
+<h2><span style="color: rgb(0,0,255);">Lorem ipsum 1-1</span></h2>
+<p><span style="color: rgb(104,119,137);">L</span><span style="color: rgb(0,0,0);">orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui ut ornare lectus sit amet. Sociis natoque penatibus et magnis. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Scelerisque mauris pellentesque pulvinar pellentesque habitant. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Accumsan lacus vel facilisis volutpat est velit egestas dui id. Lobortis feugiat vivamus at augue eget arcu dictum varius. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Aenean vel elit scelerisque mauris pellentesque. Pharetra massa massa ultricies mi quis hendrerit dolor magna eget. Egestas diam in arcu cursus euismod quis. Mi tempus imperdiet nulla malesuada pellentesque. In vitae turpis massa sed elementum tempus egestas. Egestas pretium aenean pharetra magna ac placerat. Morbi non arcu risus quis varius quam quisque id diam.</span></p>
+<p><span style="color: rgb(0,0,0);"><ac:image ac:width="600"><ri:attachment ri:filename="wordpress-lorem-ipsum.png" /></ac:image><br /></span></p>
+<h3><em><span style="color: rgb(0,0,0);"><span style="color: rgb(0,0,255);">Figure#1-1</span></span></em></h3>
+<hr />
+<p><span style="color: rgb(0,0,0);">&nbsp;</span></p></ac:layout-cell><ac:layout-cell><ac:structured-macro ac:macro-id="64da479c-cbea-4b2e-8b82-42791e4d644e" ac:name="info" ac:schema-version="1"><ac:rich-text-body>
+<p><ac:structured-macro ac:macro-id="ad379dec-65f9-4320-8368-cbcf03a923da" ac:name="toc" ac:schema-version="1" /></p></ac:rich-text-body></ac:structured-macro></ac:layout-cell></ac:layout-section><ac:layout-section ac:type="single"><ac:layout-cell>
+<h2><span style="color: rgb(0,0,255);">Lorem ipsum 1-2</span></h2>
+<p>which is mainly . instructions.</p>
+<p>Lorem sed risus ultricies tristique. Vel risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Arcu felis bibendum ut tristique et egestas quis ipsum. Egestas sed sed risus pretium quam vulputate dignissim. Ultricies lacus sed turpis tincidunt id. Placerat duis ultricies lacus sed. Maecenas sed enim ut sem. Amet facilisis magna etiam tempor orci eu lobortis elementum nibh. Ipsum a arcu cursus vitae. Lacus laoreet non curabitur gravida. Amet purus gravida quis blandit. Quisque egestas diam in arcu cursus. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eget nunc lobortis mattis aliquam faucibus purus in. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum.</p>
+<p><span style="color: rgb(0,0,0);">&nbsp;</span></p>
+<div>
+<p>Lorem sed risus ultricies tristique. Vel risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Arcu felis bibendum ut tristique et egestas quis ipsum. Egestas sed sed risus pretium quam vulputate dignissim. Ultricies lacus sed turpis tincidunt id. Placerat duis ultricies lacus sed. Maecenas sed enim ut sem. Amet facilisis magna etiam tempor orci eu lobortis elementum nibh. Ipsum a arcu cursus vitae. Lacus laoreet non curabitur gravida. Amet purus gravida quis blandit. Quisque egestas diam in arcu cursus. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eget nunc lobortis mattis aliquam faucibus purus in. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum.</p>
+<h3><span style="color: rgb(0,0,255);">Lorem ipsum 1-2 Tutorial</span></h3>
+<h3><span style="color: rgb(0,0,255);"><ac:structured-macro ac:macro-id="dc2599ef-2026-4922-8685-13cb48ef32f0" ac:name="multimedia" ac:schema-version="1"><ac:parameter ac:name="name"><ri:attachment ri:filename="342245237.mp4" /></ac:parameter><ac:parameter ac:name="width">70%</ac:parameter><ac:parameter ac:name="height">700</ac:parameter></ac:structured-macro>&nbsp;</span></h3>
+<h3><span style="color: rgb(0,0,255);">Lorem ipsum 1-2 steps</span></h3>
+<ol>
+<li><span style="color: rgb(0,0,0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </span></li>
+<li><span style="color: rgb(0,0,0);">Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Nec nam aliquam sem et tortor. Dignissim sodales ut eu sem. </span></li>
+<li><span style="color: rgb(0,0,0);">Tempus iaculis urna id volutpat lacus laoreet non curabitur. Mi quis hendrerit dolor magna eget est lorem ipsum dolor. </span></li>
+<li><span style="color: rgb(0,0,0);">Augue lacus viverra vitae congue eu. Ultricies integer quis auctor elit sed. Mauris augue neque gravida in fermentum et sollicitudin ac orci. </span></li>
+<li><span style="color: rgb(0,0,0);">Varius vel pharetra vel turpis nunc eget. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Fringilla urna porttitor rhoncus dolor purus non. </span></li>
+<li><span style="color: rgb(0,0,0);">Turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Amet justo donec enim diam. Tincidunt arcu non sodales neque sodales ut etiam sit. </span></li>
+<li><span style="color: rgb(0,0,0);">Consectetur adipiscing elit duis tristique.</span></li></ol></div></ac:layout-cell></ac:layout-section></ac:layout>
+<h1><span style="color: rgb(0,0,255);">&nbsp;</span></h1>
+<hr />
+<h1><span style="color: rgb(0,0,255);"><strong>Lorem ipsum 2</strong></span></h1>
+<h2><span style="color: rgb(0,0,255);">&nbsp;</span><span style="color: rgb(0,0,255);">Lorem ipsum 2-1</span></h2>
+<p><span style="color: rgb(0,0,255);">&nbsp;</span>ProgressSoft Page Default Template (PS-PDT) .</p>
+<p>Create Page with customized layout, the swiftness, easiness, and efficiency etc...;</p>
+<p><span style="color: rgb(0,0,0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui ut ornare lectus sit amet. Sociis natoque penatibus et magnis. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Scelerisque mauris pellentesque pulvinar pellentesque habitant. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Accumsan lacus vel facilisis volutpat est velit egestas dui id. Lobortis feugiat vivamus at augue eget arcu dictum varius. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Aenean vel elit scelerisque mauris pellentesque. Pharetra massa massa ultricies mi quis hendrerit dolor magna eget. Egestas diam in arcu cursus euismod quis. Mi tempus imperdiet nulla malesuada pellentesque. In vitae turpis massa sed elementum tempus egestas. Egestas pretium aenean pharetra magna ac placerat. Morbi non arcu risus quis varius quam quisque id diam.</span></p>
+<p><ac:image ac:width="500"><ri:attachment ri:filename="845x2000.jpg" /></ac:image></p>
+<p>&nbsp;</p>
+<h3><span style="color: rgb(0,0,255);">Lorem ipsum 2-1 Tutorial</span></h3>
+<h3><ac:structured-macro ac:macro-id="d7d88aeb-21c1-4c1c-a0f1-220fa249a4a3" ac:name="multimedia" ac:schema-version="1"><ac:parameter ac:name="name"><ri:attachment ri:filename="342245237.mp4" /></ac:parameter><ac:parameter ac:name="width">700</ac:parameter><ac:parameter ac:name="height">80</ac:parameter></ac:structured-macro></h3>
+<p>The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.</p>
+<p>Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex.</p>
+<p>Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs! &quot;Now fax quiz Jack! &quot; my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk.</p>
+<p>A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump. Joaquin Phoenix was gazed by MTV for luck. A wizard&rsquo;s job is to vex chumps quickly in fog. Watch &quot;Jeopardy! &quot;, Alex Trebek's fun TV quiz game. Woven silk pyjamas exchanged for blue quartz. Brawny gods just.</p>
